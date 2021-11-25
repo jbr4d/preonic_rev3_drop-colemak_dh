@@ -1,1 +1,1 @@
-# The default Preonic layout - largely based on the Planck's
+# Modified Preonic layout - colemak layer changed to colemak mod dh.
