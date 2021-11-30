@@ -1,5 +1,6 @@
 # Modified Preonic layout - colemak layer changed to colemak mod dh.
 
+<pre>
 /* Colemak Mod DH
  * ,-----------------------------------------------------------------------------------.
  * |   `  |   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |   0  | Bksp |
@@ -13,3 +14,4 @@
  * | Brite| Ctrl | Alt  | GUI  |Lower |    Space    |Raise | Left | Down |  Up  |Right |
  * `-----------------------------------------------------------------------------------'
  */
+</pre>
